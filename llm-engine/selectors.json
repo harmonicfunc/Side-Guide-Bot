@@ -1,0 +1,2303 @@
+{
+  "http://localhost:3000/": {
+    "header-links": [
+      {
+        "selector": "body > #root > header > nav > div > a",
+        "coordinates": "{\"x\":85,\"y\":8,\"width\":78.03125,\"height\":40,\"top\":8,\"right\":163.03125,\"bottom\":48,\"left\":85}",
+        "heading": null,
+        "text": "conduit",
+        "isInsideForm": false,
+        "href": "http://localhost:3000/",
+        "revealed": [
+          {
+            "inputs": [
+              {
+                "selector": "input[placeholder=\"Filter\"]",
+                "coordinates": "{\"x\":210.921875,\"y\":267.71875,\"width\":171.5625,\"height\":23.890625,\"top\":267.71875,\"right\":382.484375,\"bottom\":291.609375,\"left\":210.921875}",
+                "heading": null,
+                "text": "",
+                "isInsideForm": false
+              }
+            ],
+            "text_content": []
+          }
+        ]
+      },
+      {
+        "selector": "body > #root > header > nav > div > ul > li:nth-of-type(1) > a",
+        "coordinates": "{\"x\":887.421875,\"y\":8,\"width\":40.3125,\"height\":37.59375,\"top\":8,\"right\":927.734375,\"bottom\":45.59375,\"left\":887.421875}",
+        "heading": null,
+        "text": "Home",
+        "isInsideForm": false,
+        "href": "http://localhost:3000/",
+        "revealed": [
+          {
+            "inputs": [
+              {
+                "selector": "input[placeholder=\"Filter\"]",
+                "coordinates": "{\"x\":210.921875,\"y\":267.71875,\"width\":171.5625,\"height\":23.890625,\"top\":267.71875,\"right\":382.484375,\"bottom\":291.609375,\"left\":210.921875}",
+                "heading": null,
+                "text": "",
+                "isInsideForm": false
+              }
+            ],
+            "text_content": []
+          }
+        ]
+      },
+      {
+        "selector": "body > #root > header > nav > div > ul > li:nth-of-type(2) > a",
+        "coordinates": "{\"x\":943.734375,\"y\":8,\"width\":77.40625,\"height\":37.59375,\"top\":8,\"right\":1021.140625,\"bottom\":45.59375,\"left\":943.734375}",
+        "heading": null,
+        "text": "New Post",
+        "isInsideForm": false,
+        "href": "http://localhost:3000/editor"
+      },
+      {
+        "selector": "body > #root > header > nav > div > ul > li:nth-of-type(3) > a",
+        "coordinates": "{\"x\":1037.140625,\"y\":8,\"width\":69.484375,\"height\":37.59375,\"top\":8,\"right\":1106.625,\"bottom\":45.59375,\"left\":1037.140625}",
+        "heading": null,
+        "text": "Settings",
+        "isInsideForm": false,
+        "href": "http://localhost:3000/settings"
+      },
+      {
+        "selector": "body > #root > header > nav > div > ul > li:nth-of-type(4) > a",
+        "coordinates": "{\"x\":1122.625,\"y\":8,\"width\":72.375,\"height\":39.703125,\"top\":8,\"right\":1195,\"bottom\":47.703125,\"left\":1122.625}",
+        "heading": null,
+        "text": "tahska",
+        "isInsideForm": false,
+        "href": "http://localhost:3000/@tahska"
+      }
+    ],
+    "lists": [
+      {
+        "selector": "body > #root > main > div > div:nth-of-type(2) > div > div:nth-of-type(1)",
+        "coordinates": "{\"x\":70,\"y\":257.59375,\"width\":855,\"height\":2253.234375,\"top\":257.59375,\"right\":925,\"bottom\":2510.828125,\"left\":70}",
+        "heading": "conduit",
+        "type": "fingerprint-list",
+        "items": [
+          {
+            "fingerprint": "div.feed-toggle_list_...",
+            "structure": {
+              "lists": [
+                {
+                  "selector": "body > #root > main > div > div:nth-of-type(2) > div > div:nth-of-type(1) > div:nth-of-type(1) > ul",
+                  "coordinates": "{\"x\":85,\"y\":257.59375,\"width\":825,\"height\":42,\"top\":257.59375,\"right\":910,\"bottom\":299.59375,\"left\":85}",
+                  "heading": "conduit",
+                  "type": "ul-list",
+                  "items": [
+                    {
+                      "fingerprint": "li.nav-itembutton...",
+                      "structure": {
+                        "buttons": [
+                          {
+                            "selector": "body > #root > main > div > div:nth-of-type(2) > div > div:nth-of-type(1) > div:nth-of-type(1) > ul > li:nth-of-type(1) > button",
+                            "coordinates": "{\"x\":85,\"y\":257.59375,\"width\":97.53125,\"height\":42,\"top\":257.59375,\"right\":182.53125,\"bottom\":299.59375,\"left\":85}",
+                            "heading": "conduit",
+                            "text": "Your Feed",
+                            "isInsideForm": false,
+                            "revealed": [
+                              {
+                                "inputs": [
+                                  {
+                                    "selector": "input[placeholder=\"Filter\"]",
+                                    "coordinates": "{\"x\":210.921875,\"y\":267.71875,\"width\":171.5625,\"height\":23.890625,\"top\":267.71875,\"right\":382.484375,\"bottom\":291.609375,\"left\":210.921875}",
+                                    "heading": null,
+                                    "text": "",
+                                    "isInsideForm": false
+                                  }
+                                ],
+                                "text_content": []
+                              }
+                            ]
+                          }
+                        ],
+                        "text_content": []
+                      }
+                    }
+                  ]
+                }
+              ],
+              "text_content": []
+            }
+          },
+          {
+            "fingerprint": "div.article-previewdiv.article-metaadiv.infoaspanbuttona...",
+            "structure": {
+              "links": [
+                {
+                  "selector": "body > #root > main > div > div:nth-of-type(2) > div > div:nth-of-type(1) > div:nth-of-type(2) > div > a",
+                  "coordinates": "{\"x\":85,\"y\":327.4375,\"width\":32,\"height\":20,\"top\":327.4375,\"right\":117,\"bottom\":347.4375,\"left\":85}",
+                  "heading": "conduit",
+                  "text": "",
+                  "isInsideForm": false,
+                  "href": "http://localhost:3000/profile/Cecile60",
+                  "revealed": [
+                    {
+                      "inputs": [
+                        {
+                          "selector": "input[placeholder=\"Filter\"]",
+                          "coordinates": "{\"x\":210.921875,\"y\":267.71875,\"width\":171.5625,\"height\":23.890625,\"top\":267.71875,\"right\":382.484375,\"bottom\":291.609375,\"left\":210.921875}",
+                          "heading": null,
+                          "text": "",
+                          "isInsideForm": false
+                        }
+                      ],
+                      "text_content": []
+                    }
+                  ]
+                },
+                {
+                  "selector": "body > #root > main > div > div:nth-of-type(2) > div > div:nth-of-type(1) > div:nth-of-type(2) > div > div > a",
+                  "coordinates": "{\"x\":121.796875,\"y\":323.59375,\"width\":86.65625,\"height\":16,\"top\":323.59375,\"right\":208.453125,\"bottom\":339.59375,\"left\":121.796875}",
+                  "heading": "conduit",
+                  "text": "Cecile60",
+                  "isInsideForm": false,
+                  "href": "http://localhost:3000/profile/Cecile60"
+                },
+                {
+                  "selector": "body > #root > main > div > div:nth-of-type(2) > div > div:nth-of-type(1) > div:nth-of-type(2) > a",
+                  "coordinates": "{\"x\":85,\"y\":371.59375,\"width\":825,\"height\":107.984375,\"top\":371.59375,\"right\":910,\"bottom\":479.578125,\"left\":85}",
+                  "heading": "conduit",
+                  "text": "Consequatur voluptas pariatur accusantium.Dolor quibusdam consequatur est aliquid soluta magni. Ullam quis repudiandae quae. Eaque nemo distinctio rerum earum quam hic est possimus cum.Read more...sit",
+                  "isInsideForm": false,
+                  "href": "http://localhost:3000/article/b0cbc4ed-3bdf-4af7-be17-529143f97f3e"
+                }
+              ],
+              "buttons": [
+                {
+                  "selector": "body > #root > main > div > div:nth-of-type(2) > div > div:nth-of-type(1) > div:nth-of-type(2) > div > button",
+                  "coordinates": "{\"x\":870.84375,\"y\":323.59375,\"width\":39.15625,\"height\":27.5,\"top\":323.59375,\"right\":910,\"bottom\":351.09375,\"left\":870.84375}",
+                  "heading": "conduit",
+                  "text": "0",
+                  "isInsideForm": false,
+                  "revealed": [
+                    {
+                      "inputs": [
+                        {
+                          "selector": "input[placeholder=\"Filter\"]",
+                          "coordinates": "{\"x\":210.921875,\"y\":267.71875,\"width\":171.5625,\"height\":23.890625,\"top\":267.71875,\"right\":382.484375,\"bottom\":291.609375,\"left\":210.921875}",
+                          "heading": null,
+                          "text": "",
+                          "isInsideForm": false
+                        }
+                      ],
+                      "text_content": []
+                    }
+                  ]
+                }
+              ],
+              "text_content": [
+                {
+                  "heading": "general",
+                  "content": [
+                    "Mon Jun 23 2025"
+                  ]
+                }
+              ]
+            }
+          },
+          {
+            "fingerprint": "nav_list_...",
+            "structure": {
+              "lists": [
+                {
+                  "selector": "body > #root > main > div > div:nth-of-type(2) > div > div:nth-of-type(1) > nav > ul",
+                  "coordinates": "{\"x\":85,\"y\":2446.828125,\"width\":66.90625,\"height\":42,\"top\":2446.828125,\"right\":151.90625,\"bottom\":2488.828125,\"left\":85}",
+                  "heading": "Odit ut enim officiis adipisci assumenda sed rerum veniam qui.",
+                  "type": "ul-list",
+                  "items": [
+                    {
+                      "fingerprint": "li.active.page-itembutton...",
+                      "structure": {
+                        "buttons": [
+                          {
+                            "selector": "body > #root > main > div > div:nth-of-type(2) > div > div:nth-of-type(1) > nav > ul > li:nth-of-type(1) > button",
+                            "coordinates": "{\"x\":85,\"y\":2446.828125,\"width\":33.953125,\"height\":42,\"top\":2446.828125,\"right\":118.953125,\"bottom\":2488.828125,\"left\":85}",
+                            "heading": "Odit ut enim officiis adipisci assumenda sed rerum veniam qui.",
+                            "text": "1",
+                            "isInsideForm": false
+                          }
+                        ],
+                        "text_content": []
+                      }
+                    },
+                    {
+                      "fingerprint": "li.page-itembutton...",
+                      "structure": {
+                        "buttons": [
+                          {
+                            "selector": "body > #root > main > div > div:nth-of-type(2) > div > div:nth-of-type(1) > nav > ul > li:nth-of-type(2) > button",
+                            "coordinates": "{\"x\":117.953125,\"y\":2446.828125,\"width\":33.953125,\"height\":42,\"top\":2446.828125,\"right\":151.90625,\"bottom\":2488.828125,\"left\":117.953125}",
+                            "heading": "Odit ut enim officiis adipisci assumenda sed rerum veniam qui.",
+                            "text": "2",
+                            "isInsideForm": false
+                          }
+                        ],
+                        "text_content": []
+                      }
+                    }
+                  ]
+                }
+              ],
+              "text_content": []
+            }
+          }
+        ]
+      },
+      {
+        "selector": "body > #root > main > div > div:nth-of-type(2) > div > div:nth-of-type(2) > div > div",
+        "coordinates": "{\"x\":950,\"y\":289.78125,\"width\":235,\"height\":83.90625,\"top\":289.78125,\"right\":1185,\"bottom\":373.6875,\"left\":950}",
+        "heading": "Consequatur voluptas pariatur accusantium.",
+        "type": "fingerprint-list",
+        "items": [
+          {
+            "fingerprint": "a...",
+            "structure": {
+              "buttons": [
+                {
+                  "selector": "body > #root > main > div > div:nth-of-type(2) > div > div:nth-of-type(2) > div > div > a:nth-of-type(1)",
+                  "coordinates": "{\"x\":950,\"y\":292.1875,\"width\":28.1875,\"height\":22.375,\"top\":292.1875,\"right\":978.1875,\"bottom\":314.5625,\"left\":950}",
+                  "heading": "Consequatur voluptas pariatur accusantium.",
+                  "text": "sit",
+                  "isInsideForm": false,
+                  "href": "http://localhost:3000/#"
+                }
+              ],
+              "text_content": []
+            }
+          }
+        ]
+      }
+    ],
+    "links": [
+      {
+        "selector": "body > #root > footer > div > a",
+        "coordinates": "{\"x\":85,\"y\":2570.828125,\"width\":52.03125,\"height\":24,\"top\":2570.828125,\"right\":137.03125,\"bottom\":2594.828125,\"left\":85}",
+        "heading": "conduit",
+        "text": "conduit",
+        "isInsideForm": false,
+        "href": "http://localhost:3000/",
+        "revealed": [
+          {
+            "inputs": [
+              {
+                "selector": "input[placeholder=\"Filter\"]",
+                "coordinates": "{\"x\":210.921875,\"y\":267.71875,\"width\":171.5625,\"height\":23.890625,\"top\":267.71875,\"right\":382.484375,\"bottom\":291.609375,\"left\":210.921875}",
+                "heading": null,
+                "text": "",
+                "isInsideForm": false
+              }
+            ],
+            "lists": [
+              {
+                "selector": "body > #root > div > div > div:nth-of-type(3) > div:nth-of-type(4)",
+                "coordinates": "{\"x\":640,\"y\":412.703125,\"width\":640,\"height\":47.484375,\"top\":412.703125,\"right\":1280,\"bottom\":460.1875,\"left\":640}",
+                "heading": null,
+                "type": "fingerprint-list",
+                "items": [
+                  {
+                    "fingerprint": "button...",
+                    "structure": {
+                      "buttons": [
+                        {
+                          "selector": "body > #root > div > div > div:nth-of-type(3) > div:nth-of-type(4) > button:nth-of-type(1)",
+                          "coordinates": "{\"x\":648,\"y\":420.703125,\"width\":58.8125,\"height\":31.484375,\"top\":420.703125,\"right\":706.8125,\"bottom\":452.1875,\"left\":648}",
+                          "heading": null,
+                          "text": "Refetch",
+                          "isInsideForm": false,
+                          "revealed": [
+                            {
+                              "inputs": [
+                                {
+                                  "selector": "input[placeholder=\"Filter\"]",
+                                  "coordinates": "{\"x\":210.921875,\"y\":267.71875,\"width\":171.5625,\"height\":23.890625,\"top\":267.71875,\"right\":382.484375,\"bottom\":291.609375,\"left\":210.921875}",
+                                  "heading": null,
+                                  "text": "",
+                                  "isInsideForm": false
+                                }
+                              ],
+                              "text_content": [
+                                {
+                                  "heading": "general",
+                                  "content": [
+                                    "Loading tags..."
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ],
+                      "text_content": []
+                    }
+                  }
+                ]
+              },
+              {
+                "selector": "body > #root > div > div > div:nth-of-type(3) > div:nth-of-type(8) > div > div",
+                "coordinates": "{\"x\":649.59375,\"y\":631.640625,\"width\":622.40625,\"height\":318.296875,\"top\":631.640625,\"right\":1272,\"bottom\":949.9375,\"left\":649.59375}",
+                "heading": null,
+                "type": "fingerprint-list",
+                "items": [
+                  {
+                    "fingerprint": "divspanspan...",
+                    "structure": {
+                      "text_content": [
+                        {
+                          "heading": "general",
+                          "content": [
+                            "defaultOptions"
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "fingerprint": "divspan...",
+                    "structure": {
+                      "text_content": [
+                        {
+                          "heading": "general",
+                          "content": [
+                            "options",
+                            "items"
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ],
+            "text_content": [
+              {
+                "heading": "general",
+                "content": [
+                  "Query Details",
+                  "\"/tags\"",
+                  "fresh",
+                  "Observers:",
+                  "Last Updated:",
+                  "9:33:10 pm",
+                  "Actions",
+                  "Data Explorer",
+                  "Data",
+                  "item",
+                  "tags",
+                  "10 items",
+                  "Query Explorer",
+                  "Query",
+                  "13 items"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "selector": "body > #root > footer > div > span > a",
+        "coordinates": "{\"x\":330.671875,\"y\":2574.234375,\"width\":47.671875,\"height\":16,\"top\":2574.234375,\"right\":378.34375,\"bottom\":2590.234375,\"left\":330.671875}",
+        "heading": "conduit",
+        "text": "Thinkster",
+        "isInsideForm": false,
+        "href": "https://thinkster.io/"
+      }
+    ],
+    "inputs": [
+      {
+        "selector": "input[placeholder=\"Filter\"]",
+        "coordinates": "{\"x\":855.1403198242188,\"y\":283.6731262207031,\"width\":174.99371337890625,\"height\":24.368438720703125,\"top\":283.6731262207031,\"right\":1030.134033203125,\"bottom\":308.04156494140625,\"left\":855.1403198242188}",
+        "heading": "conduit",
+        "text": "",
+        "isInsideForm": false
+      },
+      {
+        "selector": "body > #root > div > div > div:nth-of-type(2) > div:nth-of-type(1) > div > div > select",
+        "coordinates": "{\"x\":1038.2939453125,\"y\":283.6731262207031,\"width\":190.42138671875,\"height\":24.368438720703125,\"top\":283.6731262207031,\"right\":1228.71533203125,\"bottom\":308.04156494140625,\"left\":1038.2939453125}",
+        "heading": "conduit",
+        "text": "Sort by Status > Last UpdatedSort by Query HashSort by Last Updated",
+        "isInsideForm": false
+      }
+    ],
+    "buttons": [
+      {
+        "selector": "body > #root > div > div > div:nth-of-type(2) > div:nth-of-type(1) > div > div > button",
+        "coordinates": "{\"x\":1236.875244140625,\"y\":281.330322265625,\"width\":46.74462890625,\"height\":29.054046630859375,\"top\":281.330322265625,\"right\":1283.619873046875,\"bottom\":310.3843688964844,\"left\":1236.875244140625}",
+        "heading": "conduit",
+        "text": "⬆ Asc",
+        "isInsideForm": false,
+        "revealed": [
+          {
+            "inputs": [
+              {
+                "selector": "input[placeholder=\"Filter\"]",
+                "coordinates": "{\"x\":855.1403198242188,\"y\":283.6731262207031,\"width\":174.99371337890625,\"height\":24.368438720703125,\"top\":283.6731262207031,\"right\":1030.134033203125,\"bottom\":308.04156494140625,\"left\":855.1403198242188}",
+                "heading": null,
+                "text": "",
+                "isInsideForm": false
+              }
+            ],
+            "text_content": []
+          }
+        ]
+      },
+      {
+        "selector": "button[aria-label=\"Open\\ React\\ Query\\ Devtools\"]",
+        "coordinates": "{\"x\":8,\"y\":672,\"width\":40,\"height\":40,\"top\":672,\"right\":48,\"bottom\":712,\"left\":8}",
+        "heading": "conduit",
+        "text": "",
+        "isInsideForm": false,
+        "revealed": [
+          {
+            "inputs": [
+              {
+                "selector": "input[placeholder=\"Filter\"]",
+                "coordinates": "{\"x\":855.1403198242188,\"y\":283.6731262207031,\"width\":174.99371337890625,\"height\":24.368438720703125,\"top\":283.6731262207031,\"right\":1030.134033203125,\"bottom\":308.04156494140625,\"left\":855.1403198242188}",
+                "heading": null,
+                "text": "",
+                "isInsideForm": false
+              }
+            ],
+            "text_content": [
+              {
+                "heading": "general",
+                "content": [
+                  "[\"/articles/5c2b32d6-e7ce-49ec-b87e-ed8fa51c9ff4\"]",
+                  "[\"/articles/1252d7fd-b4c1-4c35-a054-50ff00614a88\"]",
+                  "[\"/articles/0483671d-b5db-432c-ad43-8f828913b2b5\"]",
+                  "[\"/articles/b826a362-23c3-4e5a-83b1-3f8fff406664\"]",
+                  "[\"/articles/bc367f48-4336-48c9-bad9-ffe6eb3ff0dd\"]",
+                  "[\"/articles/51493b01-0307-4e59-ae62-a79294c66ba0\"]",
+                  "[\"/articles/c8652875-239d-4e3f-a86c-06893bc0bff1\"]",
+                  "[\"/articles/b0cbc4ed-3bdf-4af7-be17-529143f97f3e\"]",
+                  "[\"/tags\"]",
+                  "[\"/articles/feed\",{\"limit\":10,\"offset\":0,\"tag\":\"\"}..."
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "text_content": [
+      {
+        "heading": "conduit",
+        "content": [
+          "A place to share your knowledge.",
+          "Popular Tags",
+          "An interactive learning project from . Code & desi...",
+          ".ReactQueryDevtoolsPanel * {\n              scrollb...",
+          "fresh",
+          "fetching",
+          "stale",
+          "inactive",
+          "[\"/tags\"]",
+          "[\"/articles/feed\",{\"limit\":10,\"offset\":0,\"tag\":\"\"}..."
+        ]
+      }
+    ]
+  },
+  "http://localhost:3000/editor": {
+    "header-links": [
+      {
+        "selector": "body > #root > header > nav > div > a",
+        "coordinates": "{\"x\":85,\"y\":8,\"width\":78.03125,\"height\":40,\"top\":8,\"right\":163.03125,\"bottom\":48,\"left\":85}",
+        "heading": null,
+        "text": "conduit",
+        "isInsideForm": false,
+        "href": "http://localhost:3000/"
+      },
+      {
+        "selector": "body > #root > header > nav > div > ul > li:nth-of-type(1) > a",
+        "coordinates": "{\"x\":887.421875,\"y\":8,\"width\":40.3125,\"height\":37.59375,\"top\":8,\"right\":927.734375,\"bottom\":45.59375,\"left\":887.421875}",
+        "heading": null,
+        "text": "Home",
+        "isInsideForm": false,
+        "href": "http://localhost:3000/"
+      },
+      {
+        "selector": "body > #root > header > nav > div > ul > li:nth-of-type(2) > a",
+        "coordinates": "{\"x\":943.734375,\"y\":8,\"width\":77.40625,\"height\":37.59375,\"top\":8,\"right\":1021.140625,\"bottom\":45.59375,\"left\":943.734375}",
+        "heading": null,
+        "text": "New Post",
+        "isInsideForm": false,
+        "href": "http://localhost:3000/editor",
+        "revealed": [
+          {
+            "inputs": [
+              {
+                "selector": "input[name=\"title\"]",
+                "coordinates": "{\"x\":179.984375,\"y\":80,\"width\":919.984375,\"height\":51,\"top\":80,\"right\":1099.96875,\"bottom\":131,\"left\":179.984375}",
+                "heading": null,
+                "text": "",
+                "isInsideForm": true
+              },
+              {
+                "selector": "input[name=\"description\"]",
+                "coordinates": "{\"x\":179.984375,\"y\":147,\"width\":919.984375,\"height\":38,\"top\":147,\"right\":1099.96875,\"bottom\":185,\"left\":179.984375}",
+                "heading": null,
+                "text": "",
+                "isInsideForm": true
+              },
+              {
+                "selector": "textarea[name=\"body\"]",
+                "coordinates": "{\"x\":179.984375,\"y\":201,\"width\":919.984375,\"height\":178,\"top\":201,\"right\":1099.96875,\"bottom\":379,\"left\":179.984375}",
+                "heading": null,
+                "text": "",
+                "isInsideForm": true
+              },
+              {
+                "selector": "input[placeholder=\"Enter\\ tags\"]",
+                "coordinates": "{\"x\":179.984375,\"y\":395,\"width\":919.984375,\"height\":38,\"top\":395,\"right\":1099.96875,\"bottom\":433,\"left\":179.984375}",
+                "heading": null,
+                "text": "",
+                "isInsideForm": true
+              },
+              {
+                "selector": "input[placeholder=\"Filter\"]",
+                "coordinates": "{\"x\":850.921875,\"y\":267.71875,\"width\":171.5625,\"height\":23.890625,\"top\":267.71875,\"right\":1022.484375,\"bottom\":291.609375,\"left\":850.921875}",
+                "heading": null,
+                "text": "",
+                "isInsideForm": false
+              }
+            ],
+            "text_content": []
+          }
+        ]
+      },
+      {
+        "selector": "body > #root > header > nav > div > ul > li:nth-of-type(3) > a",
+        "coordinates": "{\"x\":1037.140625,\"y\":8,\"width\":69.484375,\"height\":37.59375,\"top\":8,\"right\":1106.625,\"bottom\":45.59375,\"left\":1037.140625}",
+        "heading": null,
+        "text": "Settings",
+        "isInsideForm": false,
+        "href": "http://localhost:3000/settings"
+      },
+      {
+        "selector": "body > #root > header > nav > div > ul > li:nth-of-type(4) > a",
+        "coordinates": "{\"x\":1122.625,\"y\":8,\"width\":72.375,\"height\":39.703125,\"top\":8,\"right\":1195,\"bottom\":47.703125,\"left\":1122.625}",
+        "heading": null,
+        "text": "tahska",
+        "isInsideForm": false,
+        "href": "http://localhost:3000/@tahska"
+      }
+    ],
+    "inputs": [
+      {
+        "selector": "input[name=\"title\"]",
+        "coordinates": "{\"x\":179.984375,\"y\":80,\"width\":919.984375,\"height\":51,\"top\":80,\"right\":1099.96875,\"bottom\":131,\"left\":179.984375}",
+        "heading": null,
+        "text": "",
+        "isInsideForm": true
+      },
+      {
+        "selector": "input[name=\"description\"]",
+        "coordinates": "{\"x\":179.984375,\"y\":147,\"width\":919.984375,\"height\":38,\"top\":147,\"right\":1099.96875,\"bottom\":185,\"left\":179.984375}",
+        "heading": null,
+        "text": "",
+        "isInsideForm": true
+      },
+      {
+        "selector": "textarea[name=\"body\"]",
+        "coordinates": "{\"x\":179.984375,\"y\":201,\"width\":919.984375,\"height\":178,\"top\":201,\"right\":1099.96875,\"bottom\":379,\"left\":179.984375}",
+        "heading": null,
+        "text": "",
+        "isInsideForm": true
+      },
+      {
+        "selector": "input[placeholder=\"Enter\\ tags\"]",
+        "coordinates": "{\"x\":179.984375,\"y\":395,\"width\":919.984375,\"height\":38,\"top\":395,\"right\":1099.96875,\"bottom\":433,\"left\":179.984375}",
+        "heading": null,
+        "text": "",
+        "isInsideForm": true
+      },
+      {
+        "selector": "input[placeholder=\"Filter\"]",
+        "coordinates": "{\"x\":850.921875,\"y\":267.71875,\"width\":171.5625,\"height\":23.890625,\"top\":267.71875,\"right\":1022.484375,\"bottom\":291.609375,\"left\":850.921875}",
+        "heading": null,
+        "text": "",
+        "isInsideForm": false
+      },
+      {
+        "selector": "body > #root > div > div > div:nth-of-type(2) > div:nth-of-type(1) > div > div > select",
+        "coordinates": "{\"x\":1030.484375,\"y\":267.71875,\"width\":186.6875,\"height\":23.890625,\"top\":267.71875,\"right\":1217.171875,\"bottom\":291.609375,\"left\":1030.484375}",
+        "heading": null,
+        "text": "Sort by Status > Last UpdatedSort by Query HashSort by Last Updated",
+        "isInsideForm": false
+      }
+    ],
+    "buttons": [
+      {
+        "selector": "body > #root > main > div > div > div > div > form > fieldset > button",
+        "coordinates": "{\"x\":929.78125,\"y\":449,\"width\":170.1875,\"height\":51,\"top\":449,\"right\":1099.96875,\"bottom\":500,\"left\":929.78125}",
+        "heading": null,
+        "text": "Publish Article",
+        "isInsideForm": true
+      },
+      {
+        "selector": "body > #root > div > div > div:nth-of-type(2) > div:nth-of-type(1) > div > div > button",
+        "coordinates": "{\"x\":1225.171875,\"y\":265.421875,\"width\":45.828125,\"height\":28.484375,\"top\":265.421875,\"right\":1271,\"bottom\":293.90625,\"left\":1225.171875}",
+        "heading": null,
+        "text": "⬆ Asc",
+        "isInsideForm": false,
+        "revealed": [
+          {
+            "inputs": [
+              {
+                "selector": "input[name=\"title\"]",
+                "coordinates": "{\"x\":179.984375,\"y\":80,\"width\":919.984375,\"height\":51,\"top\":80,\"right\":1099.96875,\"bottom\":131,\"left\":179.984375}",
+                "heading": null,
+                "text": "",
+                "isInsideForm": true
+              },
+              {
+                "selector": "input[name=\"description\"]",
+                "coordinates": "{\"x\":179.984375,\"y\":147,\"width\":919.984375,\"height\":38,\"top\":147,\"right\":1099.96875,\"bottom\":185,\"left\":179.984375}",
+                "heading": null,
+                "text": "",
+                "isInsideForm": true
+              },
+              {
+                "selector": "textarea[name=\"body\"]",
+                "coordinates": "{\"x\":179.984375,\"y\":201,\"width\":919.984375,\"height\":178,\"top\":201,\"right\":1099.96875,\"bottom\":379,\"left\":179.984375}",
+                "heading": null,
+                "text": "",
+                "isInsideForm": true
+              },
+              {
+                "selector": "input[placeholder=\"Enter\\ tags\"]",
+                "coordinates": "{\"x\":179.984375,\"y\":395,\"width\":919.984375,\"height\":38,\"top\":395,\"right\":1099.96875,\"bottom\":433,\"left\":179.984375}",
+                "heading": null,
+                "text": "",
+                "isInsideForm": true
+              },
+              {
+                "selector": "input[placeholder=\"Filter\"]",
+                "coordinates": "{\"x\":843.453125,\"y\":267.71875,\"width\":171.5625,\"height\":23.890625,\"top\":267.71875,\"right\":1015.015625,\"bottom\":291.609375,\"left\":843.453125}",
+                "heading": null,
+                "text": "",
+                "isInsideForm": false
+              }
+            ],
+            "text_content": []
+          }
+        ]
+      },
+      {
+        "selector": "body > #root > div > button",
+        "coordinates": "{\"x\":8,\"y\":676.015625,\"width\":48.640625,\"height\":35.984375,\"top\":676.015625,\"right\":56.640625,\"bottom\":712,\"left\":8}",
+        "heading": null,
+        "text": "Close",
+        "isInsideForm": false,
+        "revealed": [
+          {
+            "inputs": [
+              {
+                "selector": "input[name=\"title\"]",
+                "coordinates": "{\"x\":179.984375,\"y\":80,\"width\":919.984375,\"height\":51,\"top\":80,\"right\":1099.96875,\"bottom\":131,\"left\":179.984375}",
+                "heading": null,
+                "text": "",
+                "isInsideForm": true
+              },
+              {
+                "selector": "input[name=\"description\"]",
+                "coordinates": "{\"x\":179.984375,\"y\":147,\"width\":919.984375,\"height\":38,\"top\":147,\"right\":1099.96875,\"bottom\":185,\"left\":179.984375}",
+                "heading": null,
+                "text": "",
+                "isInsideForm": true
+              },
+              {
+                "selector": "textarea[name=\"body\"]",
+                "coordinates": "{\"x\":179.984375,\"y\":201,\"width\":919.984375,\"height\":178,\"top\":201,\"right\":1099.96875,\"bottom\":379,\"left\":179.984375}",
+                "heading": null,
+                "text": "",
+                "isInsideForm": true
+              },
+              {
+                "selector": "input[placeholder=\"Enter\\ tags\"]",
+                "coordinates": "{\"x\":179.984375,\"y\":395,\"width\":919.984375,\"height\":38,\"top\":395,\"right\":1099.96875,\"bottom\":433,\"left\":179.984375}",
+                "heading": null,
+                "text": "",
+                "isInsideForm": true
+              },
+              {
+                "selector": "input[placeholder=\"Filter\"]",
+                "coordinates": "{\"x\":850.921875,\"y\":267.71875,\"width\":171.5625,\"height\":23.890625,\"top\":267.71875,\"right\":1022.484375,\"bottom\":291.609375,\"left\":850.921875}",
+                "heading": null,
+                "text": "",
+                "isInsideForm": false
+              }
+            ],
+            "text_content": []
+          }
+        ]
+      }
+    ],
+    "links": [
+      {
+        "selector": "body > #root > footer > div > a",
+        "coordinates": "{\"x\":85,\"y\":1060,\"width\":52.03125,\"height\":24,\"top\":1060,\"right\":137.03125,\"bottom\":1084,\"left\":85}",
+        "heading": null,
+        "text": "conduit",
+        "isInsideForm": false,
+        "href": "http://localhost:3000/",
+        "revealed": [
+          {
+            "inputs": [
+              {
+                "selector": "input[name=\"title\"]",
+                "coordinates": "{\"x\":179.984375,\"y\":-307,\"width\":919.984375,\"height\":51,\"top\":-307,\"right\":1099.96875,\"bottom\":-256,\"left\":179.984375}",
+                "heading": null,
+                "text": "",
+                "isInsideForm": true
+              },
+              {
+                "selector": "input[name=\"description\"]",
+                "coordinates": "{\"x\":179.984375,\"y\":-240,\"width\":919.984375,\"height\":38,\"top\":-240,\"right\":1099.96875,\"bottom\":-202,\"left\":179.984375}",
+                "heading": null,
+                "text": "",
+                "isInsideForm": true
+              },
+              {
+                "selector": "textarea[name=\"body\"]",
+                "coordinates": "{\"x\":179.984375,\"y\":-186,\"width\":919.984375,\"height\":178,\"top\":-186,\"right\":1099.96875,\"bottom\":-8,\"left\":179.984375}",
+                "heading": null,
+                "text": "",
+                "isInsideForm": true
+              },
+              {
+                "selector": "input[placeholder=\"Enter\\ tags\"]",
+                "coordinates": "{\"x\":179.984375,\"y\":8,\"width\":919.984375,\"height\":38,\"top\":8,\"right\":1099.96875,\"bottom\":46,\"left\":179.984375}",
+                "heading": null,
+                "text": "",
+                "isInsideForm": true
+              },
+              {
+                "selector": "input[placeholder=\"Filter\"]",
+                "coordinates": "{\"x\":850.921875,\"y\":267.71875,\"width\":171.5625,\"height\":23.890625,\"top\":267.71875,\"right\":1022.484375,\"bottom\":291.609375,\"left\":850.921875}",
+                "heading": null,
+                "text": "",
+                "isInsideForm": false
+              }
+            ],
+            "text_content": []
+          }
+        ]
+      },
+      {
+        "selector": "body > #root > footer > div > span > a",
+        "coordinates": "{\"x\":330.671875,\"y\":1063.40625,\"width\":47.671875,\"height\":16,\"top\":1063.40625,\"right\":378.34375,\"bottom\":1079.40625,\"left\":330.671875}",
+        "heading": null,
+        "text": "Thinkster",
+        "isInsideForm": false,
+        "href": "https://thinkster.io/"
+      }
+    ],
+    "text_content": [
+      {
+        "heading": "general",
+        "content": [
+          "An interactive learning project from . Code & desi...",
+          ".ReactQueryDevtoolsPanel * {\n              scrollb...",
+          "fresh",
+          "fetching",
+          "stale",
+          "inactive",
+          "[\"/articles/undefined\"]"
+        ]
+      }
+    ]
+  },
+  "http://localhost:3000/settings": {
+    "header-links": [
+      {
+        "selector": "body > #root > header > nav > div > a",
+        "coordinates": "{\"x\":85,\"y\":8,\"width\":78.03125,\"height\":40,\"top\":8,\"right\":163.03125,\"bottom\":48,\"left\":85}",
+        "heading": null,
+        "text": "conduit",
+        "isInsideForm": false,
+        "href": "http://localhost:3000/"
+      },
+      {
+        "selector": "body > #root > header > nav > div > ul > li:nth-of-type(1) > a",
+        "coordinates": "{\"x\":887.421875,\"y\":8,\"width\":40.3125,\"height\":37.59375,\"top\":8,\"right\":927.734375,\"bottom\":45.59375,\"left\":887.421875}",
+        "heading": null,
+        "text": "Home",
+        "isInsideForm": false,
+        "href": "http://localhost:3000/"
+      },
+      {
+        "selector": "body > #root > header > nav > div > ul > li:nth-of-type(2) > a",
+        "coordinates": "{\"x\":943.734375,\"y\":8,\"width\":77.40625,\"height\":37.59375,\"top\":8,\"right\":1021.140625,\"bottom\":45.59375,\"left\":943.734375}",
+        "heading": null,
+        "text": "New Post",
+        "isInsideForm": false,
+        "href": "http://localhost:3000/editor"
+      },
+      {
+        "selector": "body > #root > header > nav > div > ul > li:nth-of-type(3) > a",
+        "coordinates": "{\"x\":1037.140625,\"y\":8,\"width\":69.484375,\"height\":37.59375,\"top\":8,\"right\":1106.625,\"bottom\":45.59375,\"left\":1037.140625}",
+        "heading": null,
+        "text": "Settings",
+        "isInsideForm": false,
+        "href": "http://localhost:3000/settings",
+        "revealed": [
+          {
+            "inputs": [
+              {
+                "selector": "input[name=\"image\"]",
+                "coordinates": "{\"x\":370,\"y\":132,\"width\":540,\"height\":38,\"top\":132,\"right\":910,\"bottom\":170,\"left\":370}",
+                "heading": null,
+                "text": "",
+                "isInsideForm": true
+              },
+              {
+                "selector": "input[name=\"username\"]",
+                "coordinates": "{\"x\":370,\"y\":186,\"width\":540,\"height\":51,\"top\":186,\"right\":910,\"bottom\":237,\"left\":370}",
+                "heading": null,
+                "text": "",
+                "isInsideForm": true
+              },
+              {
+                "selector": "textarea[name=\"bio\"]",
+                "coordinates": "{\"x\":370,\"y\":253,\"width\":540,\"height\":226,\"top\":253,\"right\":910,\"bottom\":479,\"left\":370}",
+                "heading": null,
+                "text": "Non sed quo.",
+                "isInsideForm": true
+              },
+              {
+                "selector": "input[name=\"email\"]",
+                "coordinates": "{\"x\":370,\"y\":495,\"width\":540,\"height\":51,\"top\":495,\"right\":910,\"bottom\":546,\"left\":370}",
+                "heading": null,
+                "text": "",
+                "isInsideForm": true
+              },
+              {
+                "selector": "input[name=\"password\"]",
+                "coordinates": "{\"x\":370,\"y\":562,\"width\":540,\"height\":51,\"top\":562,\"right\":910,\"bottom\":613,\"left\":370}",
+                "heading": null,
+                "text": "",
+                "isInsideForm": true
+              },
+              {
+                "selector": "input[placeholder=\"Filter\"]",
+                "coordinates": "{\"x\":850.921875,\"y\":267.71875,\"width\":171.5625,\"height\":23.890625,\"top\":267.71875,\"right\":1022.484375,\"bottom\":291.609375,\"left\":850.921875}",
+                "heading": null,
+                "text": "",
+                "isInsideForm": false
+              }
+            ],
+            "text_content": []
+          }
+        ]
+      },
+      {
+        "selector": "body > #root > header > nav > div > ul > li:nth-of-type(4) > a",
+        "coordinates": "{\"x\":1122.625,\"y\":8,\"width\":72.375,\"height\":39.703125,\"top\":8,\"right\":1195,\"bottom\":47.703125,\"left\":1122.625}",
+        "heading": null,
+        "text": "tahska",
+        "isInsideForm": false,
+        "href": "http://localhost:3000/@tahska"
+      }
+    ],
+    "inputs": [
+      {
+        "selector": "input[name=\"image\"]",
+        "coordinates": "{\"x\":370,\"y\":132,\"width\":540,\"height\":38,\"top\":132,\"right\":910,\"bottom\":170,\"left\":370}",
+        "heading": "Your Settings",
+        "text": "",
+        "isInsideForm": true
+      },
+      {
+        "selector": "input[name=\"username\"]",
+        "coordinates": "{\"x\":370,\"y\":186,\"width\":540,\"height\":51,\"top\":186,\"right\":910,\"bottom\":237,\"left\":370}",
+        "heading": "Your Settings",
+        "text": "",
+        "isInsideForm": true
+      },
+      {
+        "selector": "textarea[name=\"bio\"]",
+        "coordinates": "{\"x\":370,\"y\":253,\"width\":540,\"height\":226,\"top\":253,\"right\":910,\"bottom\":479,\"left\":370}",
+        "heading": "Your Settings",
+        "text": "Non sed quo.",
+        "isInsideForm": true
+      },
+      {
+        "selector": "input[name=\"email\"]",
+        "coordinates": "{\"x\":370,\"y\":495,\"width\":540,\"height\":51,\"top\":495,\"right\":910,\"bottom\":546,\"left\":370}",
+        "heading": "Your Settings",
+        "text": "",
+        "isInsideForm": true
+      },
+      {
+        "selector": "input[name=\"password\"]",
+        "coordinates": "{\"x\":370,\"y\":562,\"width\":540,\"height\":51,\"top\":562,\"right\":910,\"bottom\":613,\"left\":370}",
+        "heading": "Your Settings",
+        "text": "",
+        "isInsideForm": true
+      },
+      {
+        "selector": "input[placeholder=\"Filter\"]",
+        "coordinates": "{\"x\":850.921875,\"y\":267.71875,\"width\":171.5625,\"height\":23.890625,\"top\":267.71875,\"right\":1022.484375,\"bottom\":291.609375,\"left\":850.921875}",
+        "heading": "Your Settings",
+        "text": "",
+        "isInsideForm": false
+      },
+      {
+        "selector": "body > #root > div > div > div:nth-of-type(2) > div:nth-of-type(1) > div > div > select",
+        "coordinates": "{\"x\":1030.484375,\"y\":267.71875,\"width\":186.6875,\"height\":23.890625,\"top\":267.71875,\"right\":1217.171875,\"bottom\":291.609375,\"left\":1030.484375}",
+        "heading": "Your Settings",
+        "text": "Sort by Status > Last UpdatedSort by Query HashSort by Last Updated",
+        "isInsideForm": false
+      }
+    ],
+    "buttons": [
+      {
+        "selector": "body > #root > main > div > div > div > div > form > fieldset > button",
+        "coordinates": "{\"x\":726.859375,\"y\":629,\"width\":183.140625,\"height\":51,\"top\":629,\"right\":910,\"bottom\":680,\"left\":726.859375}",
+        "heading": "Your Settings",
+        "text": "Update Settings",
+        "isInsideForm": true
+      },
+      {
+        "selector": "body > #root > main > div > div > div > div > button",
+        "coordinates": "{\"x\":370,\"y\":713,\"width\":184.8125,\"height\":38,\"top\":713,\"right\":554.8125,\"bottom\":751,\"left\":370}",
+        "heading": "Your Settings",
+        "text": "Or click here to logout.",
+        "isInsideForm": false
+      },
+      {
+        "selector": "body > #root > div > div > div:nth-of-type(2) > div:nth-of-type(1) > div > div > button",
+        "coordinates": "{\"x\":1225.171875,\"y\":265.421875,\"width\":45.828125,\"height\":28.484375,\"top\":265.421875,\"right\":1271,\"bottom\":293.90625,\"left\":1225.171875}",
+        "heading": "Your Settings",
+        "text": "⬆ Asc",
+        "isInsideForm": false,
+        "revealed": [
+          {
+            "inputs": [
+              {
+                "selector": "input[name=\"image\"]",
+                "coordinates": "{\"x\":370,\"y\":132,\"width\":540,\"height\":38,\"top\":132,\"right\":910,\"bottom\":170,\"left\":370}",
+                "heading": null,
+                "text": "",
+                "isInsideForm": true
+              },
+              {
+                "selector": "input[name=\"username\"]",
+                "coordinates": "{\"x\":370,\"y\":186,\"width\":540,\"height\":51,\"top\":186,\"right\":910,\"bottom\":237,\"left\":370}",
+                "heading": null,
+                "text": "",
+                "isInsideForm": true
+              },
+              {
+                "selector": "textarea[name=\"bio\"]",
+                "coordinates": "{\"x\":370,\"y\":253,\"width\":540,\"height\":226,\"top\":253,\"right\":910,\"bottom\":479,\"left\":370}",
+                "heading": null,
+                "text": "Non sed quo.",
+                "isInsideForm": true
+              },
+              {
+                "selector": "input[name=\"email\"]",
+                "coordinates": "{\"x\":370,\"y\":495,\"width\":540,\"height\":51,\"top\":495,\"right\":910,\"bottom\":546,\"left\":370}",
+                "heading": null,
+                "text": "",
+                "isInsideForm": true
+              },
+              {
+                "selector": "input[name=\"password\"]",
+                "coordinates": "{\"x\":370,\"y\":562,\"width\":540,\"height\":51,\"top\":562,\"right\":910,\"bottom\":613,\"left\":370}",
+                "heading": null,
+                "text": "",
+                "isInsideForm": true
+              },
+              {
+                "selector": "input[placeholder=\"Filter\"]",
+                "coordinates": "{\"x\":843.453125,\"y\":267.71875,\"width\":171.5625,\"height\":23.890625,\"top\":267.71875,\"right\":1015.015625,\"bottom\":291.609375,\"left\":843.453125}",
+                "heading": null,
+                "text": "",
+                "isInsideForm": false
+              }
+            ],
+            "text_content": []
+          }
+        ]
+      },
+      {
+        "selector": "body > #root > div > button",
+        "coordinates": "{\"x\":8,\"y\":676.015625,\"width\":48.640625,\"height\":35.984375,\"top\":676.015625,\"right\":56.640625,\"bottom\":712,\"left\":8}",
+        "heading": "Your Settings",
+        "text": "Close",
+        "isInsideForm": false,
+        "revealed": [
+          {
+            "inputs": [
+              {
+                "selector": "input[name=\"image\"]",
+                "coordinates": "{\"x\":370,\"y\":132,\"width\":540,\"height\":38,\"top\":132,\"right\":910,\"bottom\":170,\"left\":370}",
+                "heading": null,
+                "text": "",
+                "isInsideForm": true
+              },
+              {
+                "selector": "input[name=\"username\"]",
+                "coordinates": "{\"x\":370,\"y\":186,\"width\":540,\"height\":51,\"top\":186,\"right\":910,\"bottom\":237,\"left\":370}",
+                "heading": null,
+                "text": "",
+                "isInsideForm": true
+              },
+              {
+                "selector": "textarea[name=\"bio\"]",
+                "coordinates": "{\"x\":370,\"y\":253,\"width\":540,\"height\":226,\"top\":253,\"right\":910,\"bottom\":479,\"left\":370}",
+                "heading": null,
+                "text": "Non sed quo.",
+                "isInsideForm": true
+              },
+              {
+                "selector": "input[name=\"email\"]",
+                "coordinates": "{\"x\":370,\"y\":495,\"width\":540,\"height\":51,\"top\":495,\"right\":910,\"bottom\":546,\"left\":370}",
+                "heading": null,
+                "text": "",
+                "isInsideForm": true
+              },
+              {
+                "selector": "input[name=\"password\"]",
+                "coordinates": "{\"x\":370,\"y\":562,\"width\":540,\"height\":51,\"top\":562,\"right\":910,\"bottom\":613,\"left\":370}",
+                "heading": null,
+                "text": "",
+                "isInsideForm": true
+              },
+              {
+                "selector": "input[placeholder=\"Filter\"]",
+                "coordinates": "{\"x\":850.921875,\"y\":267.71875,\"width\":171.5625,\"height\":23.890625,\"top\":267.71875,\"right\":1022.484375,\"bottom\":291.609375,\"left\":850.921875}",
+                "heading": null,
+                "text": "",
+                "isInsideForm": false
+              }
+            ],
+            "text_content": []
+          }
+        ]
+      }
+    ],
+    "links": [
+      {
+        "selector": "body > #root > footer > div > a",
+        "coordinates": "{\"x\":85,\"y\":1311,\"width\":52.03125,\"height\":24,\"top\":1311,\"right\":137.03125,\"bottom\":1335,\"left\":85}",
+        "heading": "Your Settings",
+        "text": "conduit",
+        "isInsideForm": false,
+        "href": "http://localhost:3000/",
+        "revealed": [
+          {
+            "inputs": [
+              {
+                "selector": "input[name=\"image\"]",
+                "coordinates": "{\"x\":370,\"y\":-506,\"width\":540,\"height\":38,\"top\":-506,\"right\":910,\"bottom\":-468,\"left\":370}",
+                "heading": null,
+                "text": "",
+                "isInsideForm": true
+              },
+              {
+                "selector": "input[name=\"username\"]",
+                "coordinates": "{\"x\":370,\"y\":-452,\"width\":540,\"height\":51,\"top\":-452,\"right\":910,\"bottom\":-401,\"left\":370}",
+                "heading": null,
+                "text": "",
+                "isInsideForm": true
+              },
+              {
+                "selector": "textarea[name=\"bio\"]",
+                "coordinates": "{\"x\":370,\"y\":-385,\"width\":540,\"height\":226,\"top\":-385,\"right\":910,\"bottom\":-159,\"left\":370}",
+                "heading": null,
+                "text": "Non sed quo.",
+                "isInsideForm": true
+              },
+              {
+                "selector": "input[name=\"email\"]",
+                "coordinates": "{\"x\":370,\"y\":-143,\"width\":540,\"height\":51,\"top\":-143,\"right\":910,\"bottom\":-92,\"left\":370}",
+                "heading": null,
+                "text": "",
+                "isInsideForm": true
+              },
+              {
+                "selector": "input[name=\"password\"]",
+                "coordinates": "{\"x\":370,\"y\":-76,\"width\":540,\"height\":51,\"top\":-76,\"right\":910,\"bottom\":-25,\"left\":370}",
+                "heading": null,
+                "text": "",
+                "isInsideForm": true
+              },
+              {
+                "selector": "input[placeholder=\"Filter\"]",
+                "coordinates": "{\"x\":850.921875,\"y\":267.71875,\"width\":171.5625,\"height\":23.890625,\"top\":267.71875,\"right\":1022.484375,\"bottom\":291.609375,\"left\":850.921875}",
+                "heading": null,
+                "text": "",
+                "isInsideForm": false
+              }
+            ],
+            "text_content": []
+          }
+        ]
+      },
+      {
+        "selector": "body > #root > footer > div > span > a",
+        "coordinates": "{\"x\":330.671875,\"y\":1314.40625,\"width\":47.671875,\"height\":16,\"top\":1314.40625,\"right\":378.34375,\"bottom\":1330.40625,\"left\":330.671875}",
+        "heading": "Your Settings",
+        "text": "Thinkster",
+        "isInsideForm": false,
+        "href": "https://thinkster.io/"
+      }
+    ],
+    "text_content": [
+      {
+        "heading": "Your Settings",
+        "content": [
+          "An interactive learning project from . Code & desi...",
+          ".ReactQueryDevtoolsPanel * {\n              scrollb...",
+          "fresh",
+          "fetching",
+          "stale",
+          "inactive",
+          "[\"/user\"]"
+        ]
+      }
+    ]
+  },
+  "http://localhost:3000/@tahska": {
+    "text_content": []
+  },
+  "http://localhost:3000/profile/Jess_Hermann": {
+    "header-links": [
+      {
+        "selector": "body > #root > header > nav > div > a",
+        "coordinates": "{\"x\":85,\"y\":8,\"width\":78.03125,\"height\":40,\"top\":8,\"right\":163.03125,\"bottom\":48,\"left\":85}",
+        "heading": null,
+        "text": "conduit",
+        "isInsideForm": false,
+        "href": "http://localhost:3000/"
+      },
+      {
+        "selector": "body > #root > header > nav > div > ul > li:nth-of-type(1) > a",
+        "coordinates": "{\"x\":887.421875,\"y\":8,\"width\":40.3125,\"height\":37.59375,\"top\":8,\"right\":927.734375,\"bottom\":45.59375,\"left\":887.421875}",
+        "heading": null,
+        "text": "Home",
+        "isInsideForm": false,
+        "href": "http://localhost:3000/"
+      },
+      {
+        "selector": "body > #root > header > nav > div > ul > li:nth-of-type(2) > a",
+        "coordinates": "{\"x\":943.734375,\"y\":8,\"width\":77.40625,\"height\":37.59375,\"top\":8,\"right\":1021.140625,\"bottom\":45.59375,\"left\":943.734375}",
+        "heading": null,
+        "text": "New Post",
+        "isInsideForm": false,
+        "href": "http://localhost:3000/editor"
+      },
+      {
+        "selector": "body > #root > header > nav > div > ul > li:nth-of-type(3) > a",
+        "coordinates": "{\"x\":1037.140625,\"y\":8,\"width\":69.484375,\"height\":37.59375,\"top\":8,\"right\":1106.625,\"bottom\":45.59375,\"left\":1037.140625}",
+        "heading": null,
+        "text": "Settings",
+        "isInsideForm": false,
+        "href": "http://localhost:3000/settings"
+      },
+      {
+        "selector": "body > #root > header > nav > div > ul > li:nth-of-type(4) > a",
+        "coordinates": "{\"x\":1122.625,\"y\":8,\"width\":72.375,\"height\":39.703125,\"top\":8,\"right\":1195,\"bottom\":47.703125,\"left\":1122.625}",
+        "heading": null,
+        "text": "tahska",
+        "isInsideForm": false,
+        "href": "http://localhost:3000/@tahska"
+      }
+    ],
+    "buttons": [
+      {
+        "selector": "body > #root > main > div > div:nth-of-type(1) > div > div > div > button",
+        "coordinates": "{\"x\":1026.8125,\"y\":212,\"width\":73.15625,\"height\":27.5,\"top\":212,\"right\":1099.96875,\"bottom\":239.5,\"left\":1026.8125}",
+        "heading": "",
+        "text": "Follow",
+        "isInsideForm": false,
+        "revealed": [
+          {
+            "inputs": [
+              {
+                "selector": "input[placeholder=\"Filter\"]",
+                "coordinates": "{\"x\":850.921875,\"y\":267.71875,\"width\":171.5625,\"height\":23.890625,\"top\":267.71875,\"right\":1022.484375,\"bottom\":291.609375,\"left\":850.921875}",
+                "heading": null,
+                "text": "",
+                "isInsideForm": false
+              }
+            ],
+            "text_content": []
+          }
+        ]
+      },
+      {
+        "selector": "body > #root > div > div > div:nth-of-type(2) > div:nth-of-type(1) > div > div > button",
+        "coordinates": "{\"x\":1225.171875,\"y\":265.421875,\"width\":45.828125,\"height\":28.484375,\"top\":265.421875,\"right\":1271,\"bottom\":293.90625,\"left\":1225.171875}",
+        "heading": "",
+        "text": "⬆ Asc",
+        "isInsideForm": false,
+        "revealed": [
+          {
+            "inputs": [
+              {
+                "selector": "input[placeholder=\"Filter\"]",
+                "coordinates": "{\"x\":843.453125,\"y\":267.71875,\"width\":171.5625,\"height\":23.890625,\"top\":267.71875,\"right\":1015.015625,\"bottom\":291.609375,\"left\":843.453125}",
+                "heading": null,
+                "text": "",
+                "isInsideForm": false
+              }
+            ],
+            "text_content": []
+          }
+        ]
+      },
+      {
+        "selector": "body > #root > div > button",
+        "coordinates": "{\"x\":8,\"y\":676.015625,\"width\":48.640625,\"height\":35.984375,\"top\":676.015625,\"right\":56.640625,\"bottom\":712,\"left\":8}",
+        "heading": "",
+        "text": "Close",
+        "isInsideForm": false,
+        "revealed": [
+          {
+            "inputs": [
+              {
+                "selector": "input[placeholder=\"Filter\"]",
+                "coordinates": "{\"x\":850.921875,\"y\":267.71875,\"width\":171.5625,\"height\":23.890625,\"top\":267.71875,\"right\":1022.484375,\"bottom\":291.609375,\"left\":850.921875}",
+                "heading": null,
+                "text": "",
+                "isInsideForm": false
+              }
+            ],
+            "text_content": []
+          }
+        ]
+      }
+    ],
+    "lists": [
+      {
+        "selector": "body > #root > main > div > div:nth-of-type(2) > div > div > div > ul",
+        "coordinates": "{\"x\":179.984375,\"y\":279.5,\"width\":919.984375,\"height\":42,\"top\":279.5,\"right\":1099.96875,\"bottom\":321.5,\"left\":179.984375}",
+        "heading": "",
+        "type": "ul-list",
+        "items": [
+          {
+            "fingerprint": "li.nav-itembutton...",
+            "structure": {
+              "buttons": [
+                {
+                  "selector": "body > #root > main > div > div:nth-of-type(2) > div > div > div > ul > li:nth-of-type(1) > button",
+                  "coordinates": "{\"x\":179.984375,\"y\":279.5,\"width\":103.921875,\"height\":42,\"top\":279.5,\"right\":283.90625,\"bottom\":321.5,\"left\":179.984375}",
+                  "heading": "",
+                  "text": "My Articles",
+                  "isInsideForm": false,
+                  "revealed": [
+                    {
+                      "inputs": [
+                        {
+                          "selector": "input[placeholder=\"Filter\"]",
+                          "coordinates": "{\"x\":210.921875,\"y\":267.71875,\"width\":171.5625,\"height\":23.890625,\"top\":267.71875,\"right\":382.484375,\"bottom\":291.609375,\"left\":210.921875}",
+                          "heading": null,
+                          "text": "",
+                          "isInsideForm": false
+                        }
+                      ],
+                      "lists": [
+                        {
+                          "selector": "body > #root > div > div > div:nth-of-type(3) > div:nth-of-type(4)",
+                          "coordinates": "{\"x\":640,\"y\":412.703125,\"width\":640,\"height\":47.484375,\"top\":412.703125,\"right\":1280,\"bottom\":460.1875,\"left\":640}",
+                          "heading": null,
+                          "type": "fingerprint-list",
+                          "items": [
+                            {
+                              "fingerprint": "button...",
+                              "structure": {
+                                "buttons": [
+                                  {
+                                    "selector": "body > #root > div > div > div:nth-of-type(3) > div:nth-of-type(4) > button:nth-of-type(1)",
+                                    "coordinates": "{\"x\":648,\"y\":420.703125,\"width\":58.8125,\"height\":31.484375,\"top\":420.703125,\"right\":706.8125,\"bottom\":452.1875,\"left\":648}",
+                                    "heading": null,
+                                    "text": "Refetch",
+                                    "isInsideForm": false,
+                                    "revealed": [
+                                      {
+                                        "inputs": [
+                                          {
+                                            "selector": "input[placeholder=\"Filter\"]",
+                                            "coordinates": "{\"x\":210.921875,\"y\":267.71875,\"width\":171.5625,\"height\":23.890625,\"top\":267.71875,\"right\":382.484375,\"bottom\":291.609375,\"left\":210.921875}",
+                                            "heading": null,
+                                            "text": "",
+                                            "isInsideForm": false
+                                          }
+                                        ],
+                                        "text_content": [
+                                          {
+                                            "heading": "general",
+                                            "content": [
+                                              "revertState",
+                                              "12 items",
+                                              "retryer",
+                                              "items",
+                                              "promise",
+                                              "{}"
+                                            ]
+                                          }
+                                        ]
+                                      }
+                                    ]
+                                  }
+                                ],
+                                "text_content": []
+                              }
+                            }
+                          ]
+                        },
+                        {
+                          "selector": "body > #root > div > div > div:nth-of-type(3) > div:nth-of-type(8) > div > div",
+                          "coordinates": "{\"x\":649.59375,\"y\":631.640625,\"width\":622.40625,\"height\":244.84375,\"top\":631.640625,\"right\":1272,\"bottom\":876.484375,\"left\":649.59375}",
+                          "heading": null,
+                          "type": "fingerprint-list",
+                          "items": [
+                            {
+                              "fingerprint": "divspanspan...",
+                              "structure": {
+                                "text_content": [
+                                  {
+                                    "heading": "general",
+                                    "content": [
+                                      "defaultOptions"
+                                    ]
+                                  }
+                                ]
+                              }
+                            },
+                            {
+                              "fingerprint": "divspan...",
+                              "structure": {
+                                "text_content": [
+                                  {
+                                    "heading": "general",
+                                    "content": [
+                                      "options",
+                                      "items"
+                                    ]
+                                  }
+                                ]
+                              }
+                            }
+                          ]
+                        }
+                      ],
+                      "text_content": [
+                        {
+                          "heading": "general",
+                          "content": [
+                            "Query Details",
+                            "\"/articles/089a8740-a7b7-4d9b-9f4c-94063fe7ab5b\"",
+                            "fresh",
+                            "Observers:",
+                            "Last Updated:",
+                            "9:33:52 pm",
+                            "Actions",
+                            "Data Explorer",
+                            "Data",
+                            "item",
+                            "article",
+                            "11 items",
+                            "Query Explorer",
+                            "Query",
+                            "10 items"
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "text_content": []
+            }
+          }
+        ]
+      },
+      {
+        "selector": "body > #root > div > div > div:nth-of-type(2) > div:nth-of-type(2)",
+        "coordinates": "{\"x\":0,\"y\":301.90625,\"width\":1279,\"height\":418.09375,\"top\":301.90625,\"right\":1279,\"bottom\":720,\"left\":0}",
+        "heading": "",
+        "type": "fingerprint-list",
+        "items": [
+          {
+            "fingerprint": "divdivcode...",
+            "structure": {
+              "text_content": [
+                {
+                  "heading": "general",
+                  "content": [
+                    "[\"/articles\",{\"favorited\":\"\",\"limit\":10,\"offset\":0..."
+                  ]
+                }
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "links": [
+      {
+        "selector": "body > #root > footer > div > a",
+        "coordinates": "{\"x\":85,\"y\":969.5,\"width\":52.03125,\"height\":24,\"top\":969.5,\"right\":137.03125,\"bottom\":993.5,\"left\":85}",
+        "heading": "",
+        "text": "conduit",
+        "isInsideForm": false,
+        "href": "http://localhost:3000/",
+        "revealed": [
+          {
+            "inputs": [
+              {
+                "selector": "input[placeholder=\"Filter\"]",
+                "coordinates": "{\"x\":850.921875,\"y\":267.71875,\"width\":171.5625,\"height\":23.890625,\"top\":267.71875,\"right\":1022.484375,\"bottom\":291.609375,\"left\":850.921875}",
+                "heading": null,
+                "text": "",
+                "isInsideForm": false
+              }
+            ],
+            "text_content": []
+          }
+        ]
+      },
+      {
+        "selector": "body > #root > footer > div > span > a",
+        "coordinates": "{\"x\":330.671875,\"y\":972.90625,\"width\":47.671875,\"height\":16,\"top\":972.90625,\"right\":378.34375,\"bottom\":988.90625,\"left\":330.671875}",
+        "heading": "",
+        "text": "Thinkster",
+        "isInsideForm": false,
+        "href": "https://thinkster.io/"
+      }
+    ],
+    "inputs": [
+      {
+        "selector": "input[placeholder=\"Filter\"]",
+        "coordinates": "{\"x\":850.921875,\"y\":267.71875,\"width\":171.5625,\"height\":23.890625,\"top\":267.71875,\"right\":1022.484375,\"bottom\":291.609375,\"left\":850.921875}",
+        "heading": "",
+        "text": "",
+        "isInsideForm": false
+      },
+      {
+        "selector": "body > #root > div > div > div:nth-of-type(2) > div:nth-of-type(1) > div > div > select",
+        "coordinates": "{\"x\":1030.484375,\"y\":267.71875,\"width\":186.6875,\"height\":23.890625,\"top\":267.71875,\"right\":1217.171875,\"bottom\":291.609375,\"left\":1030.484375}",
+        "heading": "",
+        "text": "Sort by Status > Last UpdatedSort by Query HashSort by Last Updated",
+        "isInsideForm": false
+      }
+    ],
+    "text_content": [
+      {
+        "heading": "",
+        "content": [
+          "Loading articles...",
+          "An interactive learning project from . Code & desi...",
+          ".ReactQueryDevtoolsPanel * {\n              scrollb...",
+          "fresh",
+          "fetching",
+          "stale",
+          "inactive"
+        ]
+      }
+    ]
+  },
+  "http://localhost:3000/article/b0cbc4ed-3bdf-4af7-be17-529143f97f3e": {
+    "header-links": [
+      {
+        "selector": "body > #root > header > nav > div > a",
+        "coordinates": "{\"x\":85,\"y\":8,\"width\":78.03125,\"height\":40,\"top\":8,\"right\":163.03125,\"bottom\":48,\"left\":85}",
+        "heading": null,
+        "text": "conduit",
+        "isInsideForm": false,
+        "href": "http://localhost:3000/"
+      },
+      {
+        "selector": "body > #root > header > nav > div > ul > li:nth-of-type(1) > a",
+        "coordinates": "{\"x\":887.421875,\"y\":8,\"width\":40.3125,\"height\":37.59375,\"top\":8,\"right\":927.734375,\"bottom\":45.59375,\"left\":887.421875}",
+        "heading": null,
+        "text": "Home",
+        "isInsideForm": false,
+        "href": "http://localhost:3000/"
+      },
+      {
+        "selector": "body > #root > header > nav > div > ul > li:nth-of-type(2) > a",
+        "coordinates": "{\"x\":943.734375,\"y\":8,\"width\":77.40625,\"height\":37.59375,\"top\":8,\"right\":1021.140625,\"bottom\":45.59375,\"left\":943.734375}",
+        "heading": null,
+        "text": "New Post",
+        "isInsideForm": false,
+        "href": "http://localhost:3000/editor"
+      },
+      {
+        "selector": "body > #root > header > nav > div > ul > li:nth-of-type(3) > a",
+        "coordinates": "{\"x\":1037.140625,\"y\":8,\"width\":69.484375,\"height\":37.59375,\"top\":8,\"right\":1106.625,\"bottom\":45.59375,\"left\":1037.140625}",
+        "heading": null,
+        "text": "Settings",
+        "isInsideForm": false,
+        "href": "http://localhost:3000/settings"
+      },
+      {
+        "selector": "body > #root > header > nav > div > ul > li:nth-of-type(4) > a",
+        "coordinates": "{\"x\":1122.625,\"y\":8,\"width\":72.375,\"height\":39.703125,\"top\":8,\"right\":1195,\"bottom\":47.703125,\"left\":1122.625}",
+        "heading": null,
+        "text": "tahska",
+        "isInsideForm": false,
+        "href": "http://localhost:3000/@tahska"
+      }
+    ],
+    "links": [
+      {
+        "selector": "body > #root > main > div > div:nth-of-type(1) > div > div > a",
+        "coordinates": "{\"x\":85,\"y\":173.109375,\"width\":32,\"height\":20,\"top\":173.109375,\"right\":117,\"bottom\":193.109375,\"left\":85}",
+        "heading": "Consequatur voluptas pariatur accusantium.",
+        "text": "",
+        "isInsideForm": false,
+        "href": "http://localhost:3000/profile/Cecile60"
+      },
+      {
+        "selector": "body > #root > main > div > div:nth-of-type(1) > div > div > div > a",
+        "coordinates": "{\"x\":121.796875,\"y\":169.265625,\"width\":86.65625,\"height\":16,\"top\":169.265625,\"right\":208.453125,\"bottom\":185.265625,\"left\":121.796875}",
+        "heading": "Consequatur voluptas pariatur accusantium.",
+        "text": "Cecile60",
+        "isInsideForm": false,
+        "href": "http://localhost:3000/profile/Cecile60"
+      },
+      {
+        "selector": "body > #root > main > div > div:nth-of-type(2) > div:nth-of-type(2) > div > a",
+        "coordinates": "{\"x\":423.703125,\"y\":460.5,\"width\":32,\"height\":20,\"top\":460.5,\"right\":455.703125,\"bottom\":480.5,\"left\":423.703125}",
+        "heading": "Consequatur voluptas pariatur accusantium.",
+        "text": "",
+        "isInsideForm": false,
+        "href": "http://localhost:3000/profile/Cecile60",
+        "revealed": [
+          {
+            "inputs": [
+              {
+                "selector": "textarea[name=\"body\"]",
+                "coordinates": "{\"x\":276,\"y\":537.65625,\"width\":728,\"height\":100,\"top\":537.65625,\"right\":1004,\"bottom\":637.65625,\"left\":276}",
+                "heading": null,
+                "text": "",
+                "isInsideForm": true
+              },
+              {
+                "selector": "input[placeholder=\"Filter\"]",
+                "coordinates": "{\"x\":210.921875,\"y\":267.71875,\"width\":171.5625,\"height\":23.890625,\"top\":267.71875,\"right\":382.484375,\"bottom\":291.609375,\"left\":210.921875}",
+                "heading": null,
+                "text": "",
+                "isInsideForm": false
+              }
+            ],
+            "lists": [
+              {
+                "selector": "body > #root > div > div > div:nth-of-type(3) > div:nth-of-type(4)",
+                "coordinates": "{\"x\":640,\"y\":412.703125,\"width\":640,\"height\":47.484375,\"top\":412.703125,\"right\":1280,\"bottom\":460.1875,\"left\":640}",
+                "heading": null,
+                "type": "fingerprint-list",
+                "items": [
+                  {
+                    "fingerprint": "button...",
+                    "structure": {
+                      "buttons": [
+                        {
+                          "selector": "body > #root > div > div > div:nth-of-type(3) > div:nth-of-type(4) > button:nth-of-type(1)",
+                          "coordinates": "{\"x\":648,\"y\":420.703125,\"width\":58.8125,\"height\":31.484375,\"top\":420.703125,\"right\":706.8125,\"bottom\":452.1875,\"left\":648}",
+                          "heading": null,
+                          "text": "Refetch",
+                          "isInsideForm": false,
+                          "revealed": [
+                            {
+                              "inputs": [
+                                {
+                                  "selector": "input[placeholder=\"Filter\"]",
+                                  "coordinates": "{\"x\":210.921875,\"y\":267.71875,\"width\":171.5625,\"height\":23.890625,\"top\":267.71875,\"right\":382.484375,\"bottom\":291.609375,\"left\":210.921875}",
+                                  "heading": null,
+                                  "text": "",
+                                  "isInsideForm": false
+                                }
+                              ],
+                              "text_content": []
+                            }
+                          ]
+                        }
+                      ],
+                      "text_content": []
+                    }
+                  }
+                ]
+              },
+              {
+                "selector": "body > #root > div > div > div:nth-of-type(3) > div:nth-of-type(8) > div > div",
+                "coordinates": "{\"x\":649.59375,\"y\":631.640625,\"width\":622.40625,\"height\":318.296875,\"top\":631.640625,\"right\":1272,\"bottom\":949.9375,\"left\":649.59375}",
+                "heading": null,
+                "type": "fingerprint-list",
+                "items": [
+                  {
+                    "fingerprint": "divspanspan...",
+                    "structure": {
+                      "text_content": [
+                        {
+                          "heading": "general",
+                          "content": [
+                            "defaultOptions"
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "fingerprint": "divspan...",
+                    "structure": {
+                      "text_content": [
+                        {
+                          "heading": "general",
+                          "content": [
+                            "options",
+                            "items"
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ],
+            "text_content": [
+              {
+                "heading": "general",
+                "content": [
+                  "Query Details",
+                  "\"/articles/b0cbc4ed-3bdf-4af7-be17-529143f97f3e\"",
+                  "fresh",
+                  "Observers:",
+                  "Last Updated:",
+                  "9:34:03 pm",
+                  "Actions",
+                  "Data Explorer",
+                  "Data",
+                  "item",
+                  "article",
+                  "12 items",
+                  "Query Explorer",
+                  "Query",
+                  "13 items"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "selector": "body > #root > main > div > div:nth-of-type(2) > div:nth-of-type(2) > div > div > a",
+        "coordinates": "{\"x\":460.5,\"y\":456.65625,\"width\":86.65625,\"height\":16,\"top\":456.65625,\"right\":547.15625,\"bottom\":472.65625,\"left\":460.5}",
+        "heading": "Consequatur voluptas pariatur accusantium.",
+        "text": "Cecile60",
+        "isInsideForm": false,
+        "href": "http://localhost:3000/profile/Cecile60"
+      },
+      {
+        "selector": "body > #root > footer > div > a",
+        "coordinates": "{\"x\":85,\"y\":1265.65625,\"width\":52.03125,\"height\":24,\"top\":1265.65625,\"right\":137.03125,\"bottom\":1289.65625,\"left\":85}",
+        "heading": "Consequatur voluptas pariatur accusantium.",
+        "text": "conduit",
+        "isInsideForm": false,
+        "href": "http://localhost:3000/",
+        "revealed": [
+          {
+            "inputs": [
+              {
+                "selector": "input[placeholder=\"Filter\"]",
+                "coordinates": "{\"x\":210.921875,\"y\":267.71875,\"width\":171.5625,\"height\":23.890625,\"top\":267.71875,\"right\":382.484375,\"bottom\":291.609375,\"left\":210.921875}",
+                "heading": null,
+                "text": "",
+                "isInsideForm": false
+              }
+            ],
+            "text_content": [
+              {
+                "heading": "general",
+                "content": [
+                  "observers",
+                  "[]"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "selector": "body > #root > footer > div > span > a",
+        "coordinates": "{\"x\":330.671875,\"y\":1269.0625,\"width\":47.671875,\"height\":16,\"top\":1269.0625,\"right\":378.34375,\"bottom\":1285.0625,\"left\":330.671875}",
+        "heading": "Consequatur voluptas pariatur accusantium.",
+        "text": "Thinkster",
+        "isInsideForm": false,
+        "href": "https://thinkster.io/"
+      }
+    ],
+    "buttons": [
+      {
+        "selector": "body > #root > main > div > div:nth-of-type(1) > div > div > button:nth-of-type(1)",
+        "coordinates": "{\"x\":232.453125,\"y\":171.515625,\"width\":139.078125,\"height\":27.5,\"top\":171.515625,\"right\":371.53125,\"bottom\":199.015625,\"left\":232.453125}",
+        "heading": "Consequatur voluptas pariatur accusantium.",
+        "text": "Unfollow Cecile60",
+        "isInsideForm": false,
+        "revealed": [
+          {
+            "inputs": [
+              {
+                "selector": "textarea[name=\"body\"]",
+                "coordinates": "{\"x\":276,\"y\":537.65625,\"width\":728,\"height\":100,\"top\":537.65625,\"right\":1004,\"bottom\":637.65625,\"left\":276}",
+                "heading": null,
+                "text": "",
+                "isInsideForm": true
+              },
+              {
+                "selector": "input[placeholder=\"Filter\"]",
+                "coordinates": "{\"x\":850.921875,\"y\":267.71875,\"width\":171.5625,\"height\":23.890625,\"top\":267.71875,\"right\":1022.484375,\"bottom\":291.609375,\"left\":850.921875}",
+                "heading": null,
+                "text": "",
+                "isInsideForm": false
+              }
+            ],
+            "text_content": []
+          }
+        ]
+      },
+      {
+        "selector": "body > #root > main > div > div:nth-of-type(1) > div > div > button:nth-of-type(2)",
+        "coordinates": "{\"x\":377.9375,\"y\":171.515625,\"width\":139.65625,\"height\":27.5,\"top\":171.515625,\"right\":517.59375,\"bottom\":199.015625,\"left\":377.9375}",
+        "heading": "Consequatur voluptas pariatur accusantium.",
+        "text": "Favorite Article (0)",
+        "isInsideForm": false,
+        "revealed": [
+          {
+            "inputs": [
+              {
+                "selector": "textarea[name=\"body\"]",
+                "coordinates": "{\"x\":276,\"y\":537.65625,\"width\":728,\"height\":100,\"top\":537.65625,\"right\":1004,\"bottom\":637.65625,\"left\":276}",
+                "heading": null,
+                "text": "",
+                "isInsideForm": true
+              },
+              {
+                "selector": "input[placeholder=\"Filter\"]",
+                "coordinates": "{\"x\":850.921875,\"y\":267.71875,\"width\":171.5625,\"height\":23.890625,\"top\":267.71875,\"right\":1022.484375,\"bottom\":291.609375,\"left\":850.921875}",
+                "heading": null,
+                "text": "",
+                "isInsideForm": false
+              }
+            ],
+            "text_content": []
+          }
+        ]
+      },
+      {
+        "selector": "body > #root > main > div > div:nth-of-type(2) > div:nth-of-type(2) > div > button:nth-of-type(1)",
+        "coordinates": "{\"x\":571.15625,\"y\":458.90625,\"width\":139.078125,\"height\":27.5,\"top\":458.90625,\"right\":710.234375,\"bottom\":486.40625,\"left\":571.15625}",
+        "heading": "Consequatur voluptas pariatur accusantium.",
+        "text": "Unfollow Cecile60",
+        "isInsideForm": false,
+        "revealed": [
+          {
+            "inputs": [
+              {
+                "selector": "textarea[name=\"body\"]",
+                "coordinates": "{\"x\":276,\"y\":537.65625,\"width\":728,\"height\":100,\"top\":537.65625,\"right\":1004,\"bottom\":637.65625,\"left\":276}",
+                "heading": null,
+                "text": "",
+                "isInsideForm": true
+              },
+              {
+                "selector": "input[placeholder=\"Filter\"]",
+                "coordinates": "{\"x\":850.921875,\"y\":267.71875,\"width\":171.5625,\"height\":23.890625,\"top\":267.71875,\"right\":1022.484375,\"bottom\":291.609375,\"left\":850.921875}",
+                "heading": null,
+                "text": "",
+                "isInsideForm": false
+              }
+            ],
+            "text_content": []
+          }
+        ]
+      },
+      {
+        "selector": "body > #root > main > div > div:nth-of-type(2) > div:nth-of-type(2) > div > button:nth-of-type(2)",
+        "coordinates": "{\"x\":716.640625,\"y\":458.90625,\"width\":139.65625,\"height\":27.5,\"top\":458.90625,\"right\":856.296875,\"bottom\":486.40625,\"left\":716.640625}",
+        "heading": "Consequatur voluptas pariatur accusantium.",
+        "text": "Favorite Article (0)",
+        "isInsideForm": false,
+        "revealed": [
+          {
+            "inputs": [
+              {
+                "selector": "textarea[name=\"body\"]",
+                "coordinates": "{\"x\":276,\"y\":78.65625,\"width\":728,\"height\":100,\"top\":78.65625,\"right\":1004,\"bottom\":178.65625,\"left\":276}",
+                "heading": null,
+                "text": "",
+                "isInsideForm": true
+              },
+              {
+                "selector": "input[placeholder=\"Filter\"]",
+                "coordinates": "{\"x\":850.921875,\"y\":267.71875,\"width\":171.5625,\"height\":23.890625,\"top\":267.71875,\"right\":1022.484375,\"bottom\":291.609375,\"left\":850.921875}",
+                "heading": null,
+                "text": "",
+                "isInsideForm": false
+              }
+            ],
+            "text_content": []
+          }
+        ]
+      },
+      {
+        "selector": "body > #root > main > div > div:nth-of-type(2) > div:nth-of-type(3) > div > form > div:nth-of-type(2) > button",
+        "coordinates": "{\"x\":875.625,\"y\":650.65625,\"width\":108.375,\"height\":27.5,\"top\":650.65625,\"right\":984,\"bottom\":678.15625,\"left\":875.625}",
+        "heading": "Consequatur voluptas pariatur accusantium.",
+        "text": "Post Comment",
+        "isInsideForm": true
+      },
+      {
+        "selector": "body > #root > div > div > div:nth-of-type(2) > div:nth-of-type(1) > div > div > button",
+        "coordinates": "{\"x\":1225.171875,\"y\":265.421875,\"width\":45.828125,\"height\":28.484375,\"top\":265.421875,\"right\":1271,\"bottom\":293.90625,\"left\":1225.171875}",
+        "heading": "Consequatur voluptas pariatur accusantium.",
+        "text": "⬆ Asc",
+        "isInsideForm": false,
+        "revealed": [
+          {
+            "inputs": [
+              {
+                "selector": "textarea[name=\"body\"]",
+                "coordinates": "{\"x\":276,\"y\":537.65625,\"width\":728,\"height\":100,\"top\":537.65625,\"right\":1004,\"bottom\":637.65625,\"left\":276}",
+                "heading": null,
+                "text": "",
+                "isInsideForm": true
+              },
+              {
+                "selector": "input[placeholder=\"Filter\"]",
+                "coordinates": "{\"x\":843.453125,\"y\":267.71875,\"width\":171.5625,\"height\":23.890625,\"top\":267.71875,\"right\":1015.015625,\"bottom\":291.609375,\"left\":843.453125}",
+                "heading": null,
+                "text": "",
+                "isInsideForm": false
+              }
+            ],
+            "text_content": []
+          }
+        ]
+      },
+      {
+        "selector": "body > #root > div > button",
+        "coordinates": "{\"x\":8,\"y\":676.015625,\"width\":48.640625,\"height\":35.984375,\"top\":676.015625,\"right\":56.640625,\"bottom\":712,\"left\":8}",
+        "heading": "Consequatur voluptas pariatur accusantium.",
+        "text": "Close",
+        "isInsideForm": false,
+        "revealed": [
+          {
+            "inputs": [
+              {
+                "selector": "textarea[name=\"body\"]",
+                "coordinates": "{\"x\":276,\"y\":537.65625,\"width\":728,\"height\":100,\"top\":537.65625,\"right\":1004,\"bottom\":637.65625,\"left\":276}",
+                "heading": null,
+                "text": "",
+                "isInsideForm": true
+              },
+              {
+                "selector": "input[placeholder=\"Filter\"]",
+                "coordinates": "{\"x\":850.921875,\"y\":267.71875,\"width\":171.5625,\"height\":23.890625,\"top\":267.71875,\"right\":1022.484375,\"bottom\":291.609375,\"left\":850.921875}",
+                "heading": null,
+                "text": "",
+                "isInsideForm": false
+              }
+            ],
+            "text_content": []
+          }
+        ]
+      }
+    ],
+    "inputs": [
+      {
+        "selector": "textarea[name=\"body\"]",
+        "coordinates": "{\"x\":276,\"y\":537.65625,\"width\":728,\"height\":100,\"top\":537.65625,\"right\":1004,\"bottom\":637.65625,\"left\":276}",
+        "heading": "Consequatur voluptas pariatur accusantium.",
+        "text": "",
+        "isInsideForm": true
+      },
+      {
+        "selector": "input[placeholder=\"Filter\"]",
+        "coordinates": "{\"x\":850.921875,\"y\":267.71875,\"width\":171.5625,\"height\":23.890625,\"top\":267.71875,\"right\":1022.484375,\"bottom\":291.609375,\"left\":850.921875}",
+        "heading": "Consequatur voluptas pariatur accusantium.",
+        "text": "",
+        "isInsideForm": false
+      },
+      {
+        "selector": "body > #root > div > div > div:nth-of-type(2) > div:nth-of-type(1) > div > div > select",
+        "coordinates": "{\"x\":1030.484375,\"y\":267.71875,\"width\":186.6875,\"height\":23.890625,\"top\":267.71875,\"right\":1217.171875,\"bottom\":291.609375,\"left\":1030.484375}",
+        "heading": "Consequatur voluptas pariatur accusantium.",
+        "text": "Sort by Status > Last UpdatedSort by Query HashSort by Last Updated",
+        "isInsideForm": false
+      }
+    ],
+    "text_content": [
+      {
+        "heading": "Consequatur voluptas pariatur accusantium.",
+        "content": [
+          "Mon Jun 23 2025",
+          "Voluptatem consequatur aperiam vitae.",
+          "Dolor quibusdam consequatur est aliquid soluta mag...",
+          "Mon Jun 23 2025",
+          "An interactive learning project from . Code & desi...",
+          ".ReactQueryDevtoolsPanel * {\n              scrollb...",
+          "fresh",
+          "fetching",
+          "stale",
+          "inactive",
+          "[\"/articles/b0cbc4ed-3bdf-4af7-be17-529143f97f3e/c...",
+          "[\"/articles/b0cbc4ed-3bdf-4af7-be17-529143f97f3e\"]"
+        ]
+      }
+    ]
+  },
+  "http://localhost:3000/profile/Cecile60": {
+    "header-links": [
+      {
+        "selector": "body > #root > header > nav > div > a",
+        "coordinates": "{\"x\":85,\"y\":8,\"width\":78.03125,\"height\":40,\"top\":8,\"right\":163.03125,\"bottom\":48,\"left\":85}",
+        "heading": null,
+        "text": "conduit",
+        "isInsideForm": false,
+        "href": "http://localhost:3000/"
+      },
+      {
+        "selector": "body > #root > header > nav > div > ul > li:nth-of-type(1) > a",
+        "coordinates": "{\"x\":887.421875,\"y\":8,\"width\":40.3125,\"height\":37.59375,\"top\":8,\"right\":927.734375,\"bottom\":45.59375,\"left\":887.421875}",
+        "heading": null,
+        "text": "Home",
+        "isInsideForm": false,
+        "href": "http://localhost:3000/"
+      },
+      {
+        "selector": "body > #root > header > nav > div > ul > li:nth-of-type(2) > a",
+        "coordinates": "{\"x\":943.734375,\"y\":8,\"width\":77.40625,\"height\":37.59375,\"top\":8,\"right\":1021.140625,\"bottom\":45.59375,\"left\":943.734375}",
+        "heading": null,
+        "text": "New Post",
+        "isInsideForm": false,
+        "href": "http://localhost:3000/editor"
+      },
+      {
+        "selector": "body > #root > header > nav > div > ul > li:nth-of-type(3) > a",
+        "coordinates": "{\"x\":1037.140625,\"y\":8,\"width\":69.484375,\"height\":37.59375,\"top\":8,\"right\":1106.625,\"bottom\":45.59375,\"left\":1037.140625}",
+        "heading": null,
+        "text": "Settings",
+        "isInsideForm": false,
+        "href": "http://localhost:3000/settings"
+      },
+      {
+        "selector": "body > #root > header > nav > div > ul > li:nth-of-type(4) > a",
+        "coordinates": "{\"x\":1122.625,\"y\":8,\"width\":72.375,\"height\":39.703125,\"top\":8,\"right\":1195,\"bottom\":47.703125,\"left\":1122.625}",
+        "heading": null,
+        "text": "tahska",
+        "isInsideForm": false,
+        "href": "http://localhost:3000/@tahska"
+      }
+    ],
+    "buttons": [
+      {
+        "selector": "body > #root > main > div > div:nth-of-type(1) > div > div > div > button",
+        "coordinates": "{\"x\":960.890625,\"y\":270.390625,\"width\":139.078125,\"height\":27.5,\"top\":270.390625,\"right\":1099.96875,\"bottom\":297.890625,\"left\":960.890625}",
+        "heading": "Cecile60",
+        "text": "Unfollow Cecile60",
+        "isInsideForm": false,
+        "revealed": [
+          {
+            "inputs": [
+              {
+                "selector": "input[placeholder=\"Filter\"]",
+                "coordinates": "{\"x\":850.921875,\"y\":267.71875,\"width\":171.5625,\"height\":23.890625,\"top\":267.71875,\"right\":1022.484375,\"bottom\":291.609375,\"left\":850.921875}",
+                "heading": null,
+                "text": "",
+                "isInsideForm": false
+              }
+            ],
+            "text_content": []
+          }
+        ]
+      },
+      {
+        "selector": "body > #root > div > div > div:nth-of-type(2) > div:nth-of-type(1) > div > div > button",
+        "coordinates": "{\"x\":1225.171875,\"y\":265.421875,\"width\":45.828125,\"height\":28.484375,\"top\":265.421875,\"right\":1271,\"bottom\":293.90625,\"left\":1225.171875}",
+        "heading": "Cecile60",
+        "text": "⬆ Asc",
+        "isInsideForm": false,
+        "revealed": [
+          {
+            "inputs": [
+              {
+                "selector": "input[placeholder=\"Filter\"]",
+                "coordinates": "{\"x\":843.453125,\"y\":267.71875,\"width\":171.5625,\"height\":23.890625,\"top\":267.71875,\"right\":1015.015625,\"bottom\":291.609375,\"left\":843.453125}",
+                "heading": null,
+                "text": "",
+                "isInsideForm": false
+              }
+            ],
+            "text_content": []
+          }
+        ]
+      },
+      {
+        "selector": "body > #root > div > button",
+        "coordinates": "{\"x\":8,\"y\":676.015625,\"width\":48.640625,\"height\":35.984375,\"top\":676.015625,\"right\":56.640625,\"bottom\":712,\"left\":8}",
+        "heading": "Cecile60",
+        "text": "Close",
+        "isInsideForm": false,
+        "revealed": [
+          {
+            "inputs": [
+              {
+                "selector": "input[placeholder=\"Filter\"]",
+                "coordinates": "{\"x\":850.921875,\"y\":267.71875,\"width\":171.5625,\"height\":23.890625,\"top\":267.71875,\"right\":1022.484375,\"bottom\":291.609375,\"left\":850.921875}",
+                "heading": null,
+                "text": "",
+                "isInsideForm": false
+              }
+            ],
+            "text_content": []
+          }
+        ]
+      }
+    ],
+    "lists": [
+      {
+        "selector": "body > #root > main > div > div:nth-of-type(2) > div > div",
+        "coordinates": "{\"x\":164.984375,\"y\":313.890625,\"width\":949.984375,\"height\":1099.921875,\"top\":313.890625,\"right\":1114.96875,\"bottom\":1413.8125,\"left\":164.984375}",
+        "heading": "Cecile60",
+        "type": "fingerprint-list",
+        "items": [
+          {
+            "fingerprint": "div.articles-toggle_list_...",
+            "structure": {
+              "lists": [
+                {
+                  "selector": "body > #root > main > div > div:nth-of-type(2) > div > div > div:nth-of-type(1) > ul",
+                  "coordinates": "{\"x\":179.984375,\"y\":337.890625,\"width\":919.984375,\"height\":42,\"top\":337.890625,\"right\":1099.96875,\"bottom\":379.890625,\"left\":179.984375}",
+                  "heading": "Cecile60",
+                  "type": "ul-list",
+                  "items": [
+                    {
+                      "fingerprint": "li.nav-itembutton...",
+                      "structure": {
+                        "buttons": [
+                          {
+                            "selector": "body > #root > main > div > div:nth-of-type(2) > div > div > div:nth-of-type(1) > ul > li:nth-of-type(1) > button",
+                            "coordinates": "{\"x\":179.984375,\"y\":337.890625,\"width\":103.921875,\"height\":42,\"top\":337.890625,\"right\":283.90625,\"bottom\":379.890625,\"left\":179.984375}",
+                            "heading": "Cecile60",
+                            "text": "My Articles",
+                            "isInsideForm": false,
+                            "revealed": [
+                              {
+                                "inputs": [
+                                  {
+                                    "selector": "input[placeholder=\"Filter\"]",
+                                    "coordinates": "{\"x\":210.921875,\"y\":267.71875,\"width\":171.5625,\"height\":23.890625,\"top\":267.71875,\"right\":382.484375,\"bottom\":291.609375,\"left\":210.921875}",
+                                    "heading": null,
+                                    "text": "",
+                                    "isInsideForm": false
+                                  }
+                                ],
+                                "text_content": [
+                                  {
+                                    "heading": "general",
+                                    "content": [
+                                      "observers",
+                                      "item"
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ],
+                        "text_content": []
+                      }
+                    }
+                  ]
+                }
+              ],
+              "text_content": []
+            }
+          },
+          {
+            "fingerprint": "div.article-previewdiv.article-metaadiv.infoaspanbuttona...",
+            "structure": {
+              "links": [
+                {
+                  "selector": "body > #root > main > div > div:nth-of-type(2) > div > div > div:nth-of-type(2) > div > a",
+                  "coordinates": "{\"x\":179.984375,\"y\":407.734375,\"width\":32,\"height\":20,\"top\":407.734375,\"right\":211.984375,\"bottom\":427.734375,\"left\":179.984375}",
+                  "heading": "Cecile60",
+                  "text": "",
+                  "isInsideForm": false,
+                  "href": "http://localhost:3000/profile/Cecile60",
+                  "revealed": [
+                    {
+                      "inputs": [
+                        {
+                          "selector": "input[placeholder=\"Filter\"]",
+                          "coordinates": "{\"x\":210.921875,\"y\":267.71875,\"width\":171.5625,\"height\":23.890625,\"top\":267.71875,\"right\":382.484375,\"bottom\":291.609375,\"left\":210.921875}",
+                          "heading": null,
+                          "text": "",
+                          "isInsideForm": false
+                        }
+                      ],
+                      "text_content": []
+                    }
+                  ]
+                },
+                {
+                  "selector": "body > #root > main > div > div:nth-of-type(2) > div > div > div:nth-of-type(2) > div > div > a",
+                  "coordinates": "{\"x\":216.78125,\"y\":403.890625,\"width\":86.65625,\"height\":16,\"top\":403.890625,\"right\":303.4375,\"bottom\":419.890625,\"left\":216.78125}",
+                  "heading": "Cecile60",
+                  "text": "Cecile60",
+                  "isInsideForm": false,
+                  "href": "http://localhost:3000/profile/Cecile60",
+                  "revealed": [
+                    {
+                      "inputs": [
+                        {
+                          "selector": "input[placeholder=\"Filter\"]",
+                          "coordinates": "{\"x\":210.921875,\"y\":267.71875,\"width\":171.5625,\"height\":23.890625,\"top\":267.71875,\"right\":382.484375,\"bottom\":291.609375,\"left\":210.921875}",
+                          "heading": null,
+                          "text": "",
+                          "isInsideForm": false
+                        }
+                      ],
+                      "text_content": []
+                    }
+                  ]
+                },
+                {
+                  "selector": "body > #root > main > div > div:nth-of-type(2) > div > div > div:nth-of-type(2) > a",
+                  "coordinates": "{\"x\":179.984375,\"y\":451.890625,\"width\":919.984375,\"height\":107.984375,\"top\":451.890625,\"right\":1099.96875,\"bottom\":559.875,\"left\":179.984375}",
+                  "heading": "Cecile60",
+                  "text": "Consequatur voluptas pariatur accusantium.Dolor quibusdam consequatur est aliquid soluta magni. Ullam quis repudiandae quae. Eaque nemo distinctio rerum earum quam hic est possimus cum.Read more...sit",
+                  "isInsideForm": false,
+                  "href": "http://localhost:3000/article/b0cbc4ed-3bdf-4af7-be17-529143f97f3e"
+                }
+              ],
+              "buttons": [
+                {
+                  "selector": "body > #root > main > div > div:nth-of-type(2) > div > div > div:nth-of-type(2) > div > button",
+                  "coordinates": "{\"x\":1060.8125,\"y\":403.890625,\"width\":39.15625,\"height\":27.5,\"top\":403.890625,\"right\":1099.96875,\"bottom\":431.390625,\"left\":1060.8125}",
+                  "heading": "Cecile60",
+                  "text": "0",
+                  "isInsideForm": false,
+                  "revealed": [
+                    {
+                      "inputs": [
+                        {
+                          "selector": "input[placeholder=\"Filter\"]",
+                          "coordinates": "{\"x\":210.921875,\"y\":267.71875,\"width\":171.5625,\"height\":23.890625,\"top\":267.71875,\"right\":382.484375,\"bottom\":291.609375,\"left\":210.921875}",
+                          "heading": null,
+                          "text": "",
+                          "isInsideForm": false
+                        }
+                      ],
+                      "text_content": []
+                    }
+                  ]
+                }
+              ],
+              "text_content": [
+                {
+                  "heading": "general",
+                  "content": [
+                    "Mon Jun 23 2025"
+                  ]
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "selector": "body > #root > div > div > div:nth-of-type(2) > div:nth-of-type(2)",
+        "coordinates": "{\"x\":0,\"y\":301.90625,\"width\":1279,\"height\":418.09375,\"top\":301.90625,\"right\":1279,\"bottom\":720,\"left\":0}",
+        "heading": "Cecile60",
+        "type": "fingerprint-list",
+        "items": [
+          {
+            "fingerprint": "divdivcode...",
+            "structure": {
+              "text_content": [
+                {
+                  "heading": "general",
+                  "content": [
+                    "[\"/articles/c7d642a5-a7a3-453d-9b52-b61fdd2d55c0\"]"
+                  ]
+                }
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "links": [
+      {
+        "selector": "body > #root > footer > div > a",
+        "coordinates": "{\"x\":85,\"y\":1973.8125,\"width\":52.03125,\"height\":24,\"top\":1973.8125,\"right\":137.03125,\"bottom\":1997.8125,\"left\":85}",
+        "heading": "Cecile60",
+        "text": "conduit",
+        "isInsideForm": false,
+        "href": "http://localhost:3000/",
+        "revealed": [
+          {
+            "inputs": [
+              {
+                "selector": "input[placeholder=\"Filter\"]",
+                "coordinates": "{\"x\":850.921875,\"y\":267.71875,\"width\":171.5625,\"height\":23.890625,\"top\":267.71875,\"right\":1022.484375,\"bottom\":291.609375,\"left\":850.921875}",
+                "heading": null,
+                "text": "",
+                "isInsideForm": false
+              }
+            ],
+            "text_content": []
+          }
+        ]
+      },
+      {
+        "selector": "body > #root > footer > div > span > a",
+        "coordinates": "{\"x\":330.671875,\"y\":1977.21875,\"width\":47.671875,\"height\":16,\"top\":1977.21875,\"right\":378.34375,\"bottom\":1993.21875,\"left\":330.671875}",
+        "heading": "Cecile60",
+        "text": "Thinkster",
+        "isInsideForm": false,
+        "href": "https://thinkster.io/"
+      }
+    ],
+    "inputs": [
+      {
+        "selector": "input[placeholder=\"Filter\"]",
+        "coordinates": "{\"x\":850.921875,\"y\":267.71875,\"width\":171.5625,\"height\":23.890625,\"top\":267.71875,\"right\":1022.484375,\"bottom\":291.609375,\"left\":850.921875}",
+        "heading": "Cecile60",
+        "text": "",
+        "isInsideForm": false
+      },
+      {
+        "selector": "body > #root > div > div > div:nth-of-type(2) > div:nth-of-type(1) > div > div > select",
+        "coordinates": "{\"x\":1030.484375,\"y\":267.71875,\"width\":186.6875,\"height\":23.890625,\"top\":267.71875,\"right\":1217.171875,\"bottom\":291.609375,\"left\":1030.484375}",
+        "heading": "Cecile60",
+        "text": "Sort by Status > Last UpdatedSort by Query HashSort by Last Updated",
+        "isInsideForm": false
+      }
+    ],
+    "text_content": [
+      {
+        "heading": "Cecile60",
+        "content": [
+          "Corrupti praesentium vel aliquid itaque consequatu...",
+          "An interactive learning project from . Code & desi...",
+          ".ReactQueryDevtoolsPanel * {\n              scrollb...",
+          "fresh",
+          "fetching",
+          "stale",
+          "inactive"
+        ]
+      }
+    ]
+  }
+}
